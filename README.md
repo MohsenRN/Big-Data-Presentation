@@ -1,1 +1,1 @@
-This is a Presentation about Ubuntu, designed By [Mohsen Rezaee Nejad](mailto:mohsen.rezaeenejad@yahoo.com), thanks to [Danial Behzadi](https://github.com/danialbehzadi/) and [Impress.js](http://github.com/bartaz/impress.js/) projects.
+This is a Presentation about Big Data, designed By [Mohsen Rezaee Nejad](mailto:mohsen.rezaeenejad@yahoo.com), thanks to [Danial Behzadi](https://github.com/danialbehzadi/) and [Impress.js](http://github.com/bartaz/impress.js/) projects.
